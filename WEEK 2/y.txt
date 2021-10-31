@@ -1,0 +1,49 @@
+
+#
+ include : identifier
+< : relational operator 
+ stdio : identifier
+.
+ h : identifier
+> : relational operator 
+ 
+ int : keyword 
+ main : identifier
+(
+)
+{
+ 
+ int : keyword 
+ a : identifier
+,
+ b : identifier
+;
+
+ scanf : identifier
+(
+"
+%
+ d : identifier
+"
+,
+&
+ a : identifier
+)
+;
+
+ printf : identifier
+(
+"
+ This : identifier
+ is : identifier
+ input : identifier
+"
+)
+;
+
+
+ Compiler : identifier
+ design : identifier
+ lab : identifier
+
+ comment did not close
